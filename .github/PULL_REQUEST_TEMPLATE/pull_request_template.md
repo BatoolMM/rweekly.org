@@ -2,6 +2,9 @@
 
 Please include a one-sentence summary of the new content you would like to be added to our R Weekly issue.
 
+<!--We encourage multilingal content even if it's old as long as it wasn't presented in previous issues--> 
+
+
 ## Type of Content
 
 **Please select to which section(s) your post belongs!**
